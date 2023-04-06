@@ -1,0 +1,12 @@
+.idea/
+__pycache__
+
+venv/
+migrations/
+
+*.py[cod]
+*.log
+logs/log*
+.env
+secret_data.py
+static/avatar/
